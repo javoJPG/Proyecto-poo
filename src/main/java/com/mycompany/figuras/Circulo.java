@@ -14,7 +14,7 @@ public class Circulo {
     }
 
     public void imprimir() {
-        System.out.println("Círculo con centro en:");
+        System.out.println("Circulo con centro en:");
         esquina.imprimir();
         System.out.println("Radio = " + radio);
     }

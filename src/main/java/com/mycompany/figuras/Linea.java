@@ -14,7 +14,7 @@ public class Linea {
     }
 
     public void imprimir() {
-        System.out.print("Línea formada por: ");
+        System.out.print("Linea formada por: ");
         punto1.imprimir();
         punto2.imprimir();
     }

@@ -19,7 +19,6 @@ public class Figuras {
         Cuadrado cuad = new Cuadrado(new Punto(2,2), 5);
         Circulo circ = new Circulo(new Punto(3,3), 7);
 
-        System.out.println("--- DEMO ---");
         p1.imprimir();
         p3d.imprimir();
         linea.imprimir();

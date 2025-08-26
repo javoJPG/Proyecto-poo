@@ -16,7 +16,7 @@ public class Rectangulo {
     }
 
     public void imprimir() {
-        System.out.println("Rectángulo con esquina en:");
+        System.out.println("Rectangulo con esquina en:");
         esquina.imprimir();
         System.out.println("Lado1 = " + lado1 + ", Lado2 = " + lado2);
     }
